@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SweetLifePavilionApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SweetLifePavilionApplication.class, args);
+        SpringApplication.run(SweetLifePavilionApplication.class,args);
     }
 
 }
