@@ -6,4 +6,6 @@ package com.wnwy.project.service;
  * @
  */
 public class DemoService {
+
+    public boolean toLoging;
 }
